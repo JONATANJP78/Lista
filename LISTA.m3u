@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqyNVNh/PELICULAS.png",PELICULAS ACCION
+http://ps3ultimate.com/MovianGratis/PELICULAS/accion.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqyNVNh/PELICULAS.png",PELICULAS CIENCIA FICCION
+http://ps3ultimate.com/MovianGratis/PELICULAS/cienciaficcion.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqyNVNh/PELICULAS.png",PELICULAS DRAMA
+http://ps3ultimate.com/MovianGratis/PELICULAS/drama.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqyNVNh/PELICULAS.png",PELICULAS ROMANTICAS
+http://ps3ultimate.com/MovianGratis/PELICULAS/romanticas.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqyNVNh/PELICULAS.png",PELICULAS TERROR
+http://ps3ultimate.com/MovianGratis/PELICULAS/terror.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqyNVNh/PELICULAS.png",PELICULAS CALIDAD 480p
+http://ps3ultimate.com/MovianGratis/PELICULAS/pelbajacalidad.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqyNVNh/PELICULAS.png",IPTV PELICULAS - PS3ULTIMATE
+http://jomiloma.com/acor/6aaDHC.m3u
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvZBNR1/TELEVISION.png",IPTV TELEVISION
+http://ps3ultimate.com/MovianGratis/TELEVISION/TViptv.m3u
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMZJxtX/TELENOVELAS.png",TELENOVELAS
+http://ps3ultimate.com/MovianGratis/SERIES/Telenovelas.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8r8qyV/ANIMES.png",ANIME
+http://ps3ultimate.com/MovianGratis/SERIES/animes2.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2PCbPY/SERIES.png",SERIES 480
+http://ps3ultimate.com/MovianGratis/SERIES/series2.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2PCbPY/SERIES.png",SERIES 720
+http://ps3ultimate.com/MovianGratis/SERIES/720.m3u
